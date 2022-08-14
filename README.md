@@ -5,7 +5,7 @@ this repo is an example of smiple MVVM architecture and shows how to use ViewBin
 # Packages 
 * ViewBinding
 * Retrofit
-* JSON Converter with Gson
+* JSON Converter
 * coroutines
 
 # Architecture 
