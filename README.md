@@ -1,5 +1,5 @@
 # Learning-Retrofit
-this repo is an example of smiple MVVM architecture and shows how to use ViewBinding
+This repo is an example of smiple MVVM architecture and shows how to use ViewBinding
 , Retrofit , Coroutine and Live Data , Hilt Dependency Injection.
 
 # Packages 
