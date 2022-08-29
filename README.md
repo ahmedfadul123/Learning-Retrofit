@@ -6,8 +6,8 @@ This repo is an example of smiple MVVM architecture and shows how to use ViewBin
 * ViewBinding
 * Retrofit
 * JSON Converter
-* coroutines
-* dagger-hilt
+* Coroutines
+* Dagger-hilt
 
 # Architecture 
 * Simple MVVM Architecture
